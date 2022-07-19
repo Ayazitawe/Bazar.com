@@ -17,7 +17,7 @@ const ipAdd_S1 = '192.168.1.17';
 const port_S1 = '3011';
 
 //ip address & port of order service 
-const ipAdd_S2 = '192.168.1.11';
+const ipAdd_S2 = '192.168.1.14';
 const port_S2 = '3010';
 
 //body parser to help in parsing the requests' body
